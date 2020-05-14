@@ -1,0 +1,15 @@
+{
+  "name": "ExpressAPI",
+  "version": "1.0.0",
+  "description": "RestApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "author": "Nagendra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
